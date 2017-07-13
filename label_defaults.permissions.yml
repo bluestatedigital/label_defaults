@@ -1,0 +1,4 @@
+'administer label defaults':
+  title: 'Administer label defaults'
+  description: 'Administer default label settings.'
+  restrict access: TRUE

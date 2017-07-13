@@ -1,0 +1,7 @@
+label_defaults.settings:
+  path: 'admin/structure/label_defaults'
+  defaults:
+    _form: '\Drupal\label_defaults\Form\LabelDefaultsConfigForm'
+    _title: 'Default Label Settings'
+  requirements:
+    _permission: 'administer label defaults'

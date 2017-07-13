@@ -1,0 +1,6 @@
+label_defaults.admin:
+  title: 'Default label settings'
+  description: 'Manage default display settings for labels.'
+  parent: system.admin_structure
+  route_name: label_defaults.settings
+  weight: 100
