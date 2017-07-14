@@ -1,6 +1,6 @@
 name: Label Defaults
 description: Change the default display setting for labels
-package: Blue State Digital
+package: Fields
 dependencies:
   - field
 
