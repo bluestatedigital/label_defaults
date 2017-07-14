@@ -1,12 +1,13 @@
 INTRODUCTION
 ------------
 The Label Defaults module allows you to change the default label display setting
-on newly-created fields from "Above" to whatever you prefer.
+on newly-created fields from "Above" to whatever you prefer. It does not
+impact fields that have already been created.
 
 
 REQUIREMENTS
 ------------
-No special requirements.
+Requires fields to be created with the Field UI module.
 
 
 INSTALLATION
